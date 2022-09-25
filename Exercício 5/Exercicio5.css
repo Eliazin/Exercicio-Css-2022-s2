@@ -1,0 +1,60 @@
+p.principal{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 30px;
+    color: #280;
+}
+
+td.titulo{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 15px;
+    background-color: #fff;
+}
+
+td.origem{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    color: #280;
+    background-color: #fff;
+}
+
+td.resumo{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    background-color: #fff;
+}
+
+td.rodape{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 11px;
+    text-align: center;
+    background-color: #cfb;
+}
+
+a:link{
+    color: #0000FF ;
+}
+a:visited{
+    color: #DDC71A 
+}
+a:hover{
+    color: #AC0B44 
+}
+a:active{
+    color: #FF0000;
+    font-weight: bold;
+}
+
+table.tb1 {
+    table-layout: fixed;
+    border: 1px solid #000033;
+    width: 766px;
+    height: 36px;
+    font-weight: bold;
+    background-color: #000033;
+}

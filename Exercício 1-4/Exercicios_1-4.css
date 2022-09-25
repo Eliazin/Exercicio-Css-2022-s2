@@ -1,0 +1,25 @@
+/* Exercício 1 */
+h1{
+    font-size: 24px;
+    text-align: center;
+}
+
+li, p{
+    font-size: 24px;
+    padding: 2;
+}
+
+/* Exercício 2 */
+html{
+    background-color: red;
+}
+
+/* Exercício 3 */
+#alinhado{
+    display: inline;
+}
+
+/* Exercício 4 */
+#bloco{
+    display: block;
+}
